@@ -102,3 +102,13 @@ header h2
     font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+.footer
+{
+    background-color:rgb(20, 113, 220);
+    padding: 10px;
+
+.footer .copy 
+{
+    color: #eaeaea;
+    text-align :center;
+}
